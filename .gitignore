@@ -331,4 +331,9 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 
+# SonarQube
+.sonarqube/
+
 .vscode
+Tailspin.SpaceGame.Web/important.txt
+
