@@ -333,3 +333,6 @@ ASALocalRun/
 
 # SonarQube
 .sonarqube/
+
+.vscode
+Tailspin.SpaceGame.Web/important.txt
